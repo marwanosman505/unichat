@@ -1,0 +1,53 @@
+.event-list-item {
+  display: flex;
+  align-items: center;
+  padding: 10px;
+  background: #fff; /* Optional: Adds background color */
+  border-radius: 8px; /* Optional: Adds rounded corners */
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1); /* Optional: Adds a subtle shadow for depth */
+  margin-bottom: 10px; /* Space between items */
+}
+  
+  .event-list-item:hover {
+    background: #eeeef1;
+    cursor: pointer;
+  }
+  
+  .event-photo {
+    width: 50px;
+    height: 50px;
+    border-radius: 25%; /* Adjust for rounded corners */
+    object-fit: cover;
+    margin-right: 15px;
+  }
+  
+  .event-title {
+    font-size: 16px; /* Adjusted for visibility */
+    font-weight: bold;
+    margin-bottom: 5px; /* Gives space between the title and the tags */
+    color: #333; /* Darker text for better readability */
+    text-align: left;
+  }
+  
+  .event-snippet {
+    font-size: 14px;
+    color: #888;
+    margin: 0;
+  }
+
+  .event-tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2px; /* Adjusts the gap between tags for a neat layout */
+  }
+
+  .event-tags > * {
+    background-color: #aaaaaa76;
+    font-size: 12px;
+  }
+
+  .event-info {
+    flex-grow: 1;
+    display: flex;
+    flex-direction: column;
+  }

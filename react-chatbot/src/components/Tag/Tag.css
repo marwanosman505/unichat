@@ -1,0 +1,10 @@
+.tag {
+    display: inline-block;
+    background-color: #007bff; /* Example background color */
+    color: #ffffff; /* Text color */
+    padding: 7px 8px; /* Adjust padding */
+    margin: 2px; /* Space between tags */
+    border-radius: 10px; /* Rounded corners for the tag */
+    font-size: 12px; /* Text size */
+    font-weight: 500; /* Text weight */
+}

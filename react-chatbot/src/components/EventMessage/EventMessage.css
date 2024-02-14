@@ -1,0 +1,45 @@
+/* Style for the overall message bubble */
+.event-message .bubble {
+    position: relative;
+    padding: 15px;
+    background-color: #f4f4f8;
+    border-radius: 20px;
+    margin: 10px 0;
+    display: flex;
+    flex-direction: column;
+    max-width: 75%;
+  }
+  
+  /* Styles specific to the event message details */
+  .event-details {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .event-title {
+    font-size: 16px;
+    margin-bottom: 5px;
+  }
+  
+  .event-time {
+    color: #555;
+    margin-bottom: 10px;
+  }
+  
+  .event-tags {
+    display: flex;
+    flex-wrap: wrap;
+    margin-bottom: 10px;
+  }
+  
+  .event-location {
+    font-style: italic;
+    margin-bottom: 10px;
+  }
+  
+  .event-image {
+    max-width: 100%;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  }
+  

@@ -1,0 +1,230 @@
+{
+    "results": [
+        {
+            "id": 1,
+            "title": "Jazz Party",
+            "time": "2024-07-20T18:00:00Z",
+            "tags": [
+                "jazz",
+                "music"
+            ],
+            "location": "52.65315605833025, -1.1310761805907348",
+            "picture": 1
+        },
+        {
+            "id": 2,
+            "title": "Tech Innovators Conference",
+            "time": "2024-08-05T09:00:00Z",
+            "tags": [
+                "technology",
+                "innovation",
+                "conference"
+            ],
+            "location": "37.7749295, -122.4194155",
+            "picture": 2
+        },
+        {
+            "id": 3,
+            "title": "Marathon for Charity",
+            "time": "2024-09-10T06:00:00Z",
+            "tags": [
+                "marathon",
+                "charity",
+                "sports"
+            ],
+            "location": "51.5073509, -0.1277583",
+            "picture": 3
+        },
+        {
+            "id": 4,
+            "title": "International Food Festival",
+            "time": "2024-07-15T12:00:00Z",
+            "tags": [
+                "food",
+                "culture",
+                "festival"
+            ],
+            "location": "40.7127753, -74.0059728",
+            "picture": 4
+        },
+        {
+            "id": 5,
+            "title": "Underground Art Show",
+            "time": "2024-08-20T19:00:00Z",
+            "tags": [
+                "art",
+                "exhibition"
+            ],
+            "location": "48.856614, 2.3522219",
+            "picture": 5
+        },
+        {
+            "id": 6,
+            "title": "Rock Music Night",
+            "time": "2024-07-30T20:00:00Z",
+            "tags": [
+                "rock",
+                "music",
+                "concert"
+            ],
+            "location": "-34.6036844, -58.3815591",
+            "picture": 6
+        },
+        {
+            "id": 7,
+            "title": "Classic Film Marathon",
+            "time": "2024-09-05T10:00:00Z",
+            "tags": [
+                "film",
+                "classic",
+                "marathon"
+            ],
+            "location": "34.0522342, -118.2436849",
+            "picture": 7
+        },
+        {
+            "id": 8,
+            "title": "Beach Clean-Up Day",
+            "time": "2024-08-10T07:00:00Z",
+            "tags": [
+                "environment",
+                "volunteer",
+                "beach"
+            ],
+            "location": "-33.8688197, 151.2092955",
+            "picture": 8
+        },
+        {
+            "id": 9,
+            "title": "Digital Art Workshop",
+            "time": "2024-09-25T15:00:00Z",
+            "tags": [
+                "art",
+                "digital",
+                "workshop"
+            ],
+            "location": "35.6894875, 139.6917064",
+            "picture": 9
+        },
+        {
+            "id": 10,
+            "title": "Local Farmers Market",
+            "time": "2024-08-03T09:00:00Z",
+            "tags": [
+                "food",
+                "local",
+                "market"
+            ],
+            "location": "52.3675734, 4.9041389",
+            "picture": 10
+        },
+        {
+            "id": 11,
+            "title": "Live Podcast Recording",
+            "time": "2024-07-22T18:00:00Z",
+            "tags": [
+                "podcast",
+                "live",
+                "talk"
+            ],
+            "location": "55.6760968, 12.5683372",
+            "picture": 11
+        },
+        {
+            "id": 12,
+            "title": "Night Photography Walk",
+            "time": "2024-09-15T00:00:00Z",
+            "tags": [
+                "photography",
+                "workshop",
+                "night"
+            ],
+            "location": "48.856614, 2.3522219",
+            "picture": 12
+        },
+        {
+            "id": 13,
+            "title": "Eco-Friendly Fashion Show",
+            "time": "2024-08-25T19:00:00Z",
+            "tags": [
+                "fashion",
+                "eco-friendly",
+                "show"
+            ],
+            "location": "40.7127753, -74.0059728",
+            "picture": 13
+        },
+        {
+            "id": 14,
+            "title": "Sci-Fi Book Club Meeting",
+            "time": "2024-08-12T17:00:00Z",
+            "tags": [
+                "book club",
+                "sci-fi",
+                "reading"
+            ],
+            "location": "51.5073509, -0.1277583",
+            "picture": 14
+        },
+        {
+            "id": 15,
+            "title": "Outdoor Yoga Session",
+            "time": "2024-07-25T06:00:00Z",
+            "tags": [
+                "yoga",
+                "health",
+                "outdoors"
+            ],
+            "location": "34.0522342, -118.2436849",
+            "picture": 15
+        },
+        {
+            "id": 16,
+            "title": "Indie Game Developers Meetup",
+            "time": "2024-09-20T18:00:00Z",
+            "tags": [
+                "games",
+                "indie",
+                "meetup"
+            ],
+            "location": "37.7749295, -122.4194155",
+            "picture": 16
+        },
+        {
+            "id": 17,
+            "title": "Historical Walking Tour",
+            "time": "2024-08-15T14:00:00Z",
+            "tags": [
+                "history",
+                "tour",
+                "walking"
+            ],
+            "location": "41.9027835, 12.4963655",
+            "picture": 17
+        },
+        {
+            "id": 18,
+            "title": "Sustainable Living Workshop",
+            "time": "2024-09-30T10:00:00Z",
+            "tags": [
+                "sustainability",
+                "workshop",
+                "education"
+            ],
+            "location": "52.5200066, 13.404954",
+            "picture": 18
+        },
+        {
+            "id": 19,
+            "title": "Community Gardening Day",
+            "time": "2024-07-28T08:00:00Z",
+            "tags": [
+                "gardening",
+                "community",
+                "volunteer"
+            ],
+            "location": "35.6894875, 139.6917064",
+            "picture": 19
+        }
+    ]
+}
